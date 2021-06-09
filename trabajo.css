@@ -113,7 +113,7 @@ section .title::after{
 }
 .navbar .menu li a{
     display: block;
-    color: #fff;
+    color: rgb(255, 255, 255);
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
@@ -220,10 +220,11 @@ section .title::after{
 .about .about-content .left{
     width: 45%;
 }
+
 .about .about-content .left img{
     height: 400px;
     width: 400px;
-    object-fit: cover;
+    object-fit:cover;
     border-radius: 6px;
 }
 .about .about-content .right{
