@@ -75,3 +75,4 @@ $(document).ready(function(){
 document.getElementById("Idioma").addEventListener('change', function () {
     window.location = this.value;
   }, false);
+  
